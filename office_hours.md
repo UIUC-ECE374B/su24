@@ -27,7 +27,7 @@ Obviously this course isn't active and there aren't any discussion sections or o
 
 #### Discussion Sections
 <table id="customers">
-  <tr>
+  <!-- <tr>
     <th> Section </th>
     <th> Wednesdays and Fridays at </th>
     <th> Who </th>
@@ -68,7 +68,7 @@ Obviously this course isn't active and there aren't any discussion sections or o
     <td> 02:00PM - 02:50PM </td>
     <td> Sung Woo Jeon </td>
     <td> 4070 ECEB </td>
-  </tr>
+  </tr> -->
 </table>
 &nbsp;
 
