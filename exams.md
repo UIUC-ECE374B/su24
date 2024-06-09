@@ -125,14 +125,6 @@ Couple things to note about exams:
 
 Besides the obvious "don't cheat" exam policies outlined in the [policies page](/policies/cheating) you should know about the following exam procedures: 
 
-#### Exam Drop
-
-**Exam drop replaces conflict exams.** As per the grading policy, we have included one more exam than normal so that students can drop one exam grade each semester. This exam drop has the same purpose as the HW drop - to give students a buffer for those times when life gets in the way. Should you get sick or maybe have a moment of panic during one of the exams, you now have a drop so that one grade won't sink you.  
-
-One critique of this policy is "what if you missed two exams?" I have taught this course more than 6+ times and I have yet to meet someone that missed two exams but had mastered the material. In the past three years that I have taught the course, every case of a student missing two or more exams is accompanied by the student performing in the bottom 10% of the exams they did take. This makes sense when you think about. Missing two exams is indicative of being absent for the majority of the semester which would in turn mean that the material was probably not mastered. 
-
-However, I will make a deal with anyone that is still worried about this. If you miss two exams due to a *documented* emergency but score in the top 20th percentile on the other two exams, I will substitute the lower completed exam grade for one of the missed exams. Note: you must have documentation of the emergency circumstances that required you to miss the two exams. You can email me about the specific requirements for this documentation.  
-
 #### Cheatsheet
 
 I've wrestled with the concept of cheatsheets a lot in past semesters. Ideally, what a cheatsheet is for is to help you memorize tedious equations or details that are easy to forget. However, I like to give exam questions that are very similar to the HWs/labs. In prior semesters, I noticed that cheat sheets didn't contain definitions/algorithms. Instead, they contained copied questions and solutions of HW/lab problems. Basically cheat sheets had become a "guess what Kani might put on the exam"-sheet. Worse, many, many people simply copied the cheatsheet solutions and were frustrated when they learned that those solutions didn't apply to the exam problems. This leaves me with two options: 
