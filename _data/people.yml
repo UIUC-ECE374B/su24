@@ -58,7 +58,7 @@ abhishek:
     netid: aumrawal
     webpage: "https://www.linkedin.com/in/abhishekumrawal/"
     github: 
-    role: faculty-alum
+    role: faculty
     image: /img/people/abhishek.png
     bio: Teaching Assistant Professor 
     # OHs: 
@@ -144,20 +144,20 @@ abhishek:
 #         day: Tuesday
 #         location: 4036 ECEB
 
-# sumedh:
-#     display_name: "Sumedh Vemuganti"
-#     netid: sumedh2-alum
-#     webpage: "https://www.linkedin.com/in/sumedh-vemu/"
-#     github: sumedh2
-#     role: grad-alum
-#     image: /img/people/sumedh.jpeg
-#     bio: Graduate Course Assistant
-#     # OHs: 
-#     #   OH1:
-#     #     time-start: "16:00"
-#     #     time-end: "17:00"
-#     #     day: Friday
-#     #     location: 3013 ECEB
+sumedh:
+    display_name: "Sumedh Vemuganti"
+    netid: sumedh2-alum
+    webpage: "https://www.linkedin.com/in/sumedh-vemu/"
+    github: sumedh2
+    role: grad-alum
+    image: /img/people/sumedh.jpeg
+    bio: Graduate Teaching Assistant
+    # OHs: 
+    #   OH1:
+    #     time-start: "16:00"
+    #     time-end: "17:00"
+    #     day: Friday
+    #     location: 3013 ECEB
 
 # weiyang:
 #     display_name: "Weiyang Wang"
@@ -219,16 +219,24 @@ abhishek:
 #         day: Thursday
 #         location: 3003 ECEB
 
-# hongbo:
-#     display_name: "Hongbo Zheng"
-#     webpage: "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
-#     netid: hongboz2
-#     github: 
-#     role: grad-alum
-#     image: /img/people/hongbo.jpeg
-#     bio: Graduate Course Assistant
+hongbo:
+    display_name: "Hongbo Zheng"
+    webpage: "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
+    netid: hongboz2
+    github: 
+    role: grad-alum
+    image: /img/people/hongbo.jpeg
+    bio: Graduate Teaching Assistant
 
 
+yingbing:
+    display_name: "Yingbing Huang"
+    webpage: 
+    netid: yh21
+    github: 
+    role: grad-alum
+    image: /img/people/anon-female.jpeg
+    bio: Graduate Teaching Assistant
 
 
 # ### Undergraduate TAs
@@ -323,14 +331,14 @@ abhishek:
 #     image: /img/people/briankim.png
 #     bio: Undergraduate Researcher
 
-# vishesh:
-#     display_name: "Vishesh Prasad"
-#     netid: vprasad3
-#     webpage: ""
-#     github: VisheshP-29
-#     role: ugrad-alum
-#     image: /img/people/visheh.png
-#     bio: Undergraduate Researcher
+vishesh:
+    display_name: "Vishesh Prasad"
+    netid: vprasad3
+    webpage: ""
+    github: VisheshP-29
+    role: ugrad
+    image: /img/people/visheh.png
+    bio: Undergraduate Course Assistant
 
 # owen:
 #     display_name: "Owen Xu"
@@ -396,20 +404,20 @@ abhishek:
 # #     image: /img/people/anon-male.jpg
 # #     bio: Undergraduate Course Assistant
 
-# siddhant:
-#     display_name: "Siddhant Nanavati"
-#     netid: ssn5
-#     webpage: http://www.linkedin.com/in/siddhant-nanavati
-#     github: ssn5
-#     role: ugrad-alum
-#     image: /img/people/siddhant.jpg
-#     bio: Undergraduate Course Assistant
-#     OHs: 
-#       OH1:
-#         time-start: "17:00"
-#         time-end: "18:00"
-#         day: Tuesday
-#         location: 4036 ECEB
+siddhant:
+    display_name: "Siddhant Nanavati"
+    netid: ssn5
+    webpage: http://www.linkedin.com/in/siddhant-nanavati
+    github: ssn5
+    role: ugrad-alum
+    image: /img/people/siddhant.jpg
+    bio: Undergraduate Course Assistant
+    # OHs: 
+    #   OH1:
+    #     time-start: "17:00"
+    #     time-end: "18:00"
+    #     day: Tuesday
+    #     location: 4036 ECEB
 
 # chris:
 #     display_name: "Chris Deng"
@@ -520,20 +528,20 @@ abhishek:
 #     image: /img/people/nicholas.jpg
 #     bio: Graduate Teaching Assistant
 
-# rubin:
-#     display_name: "Rubin Zou"
-#     netid: jiaruz2
-#     webpage: "https://www.linkedin.com/in/jiaru-zou-67434a21a/"
-#     github: MP-killer
-#     role: ugrad-alum
-#     image: /img/people/rubin.jpg
-#     bio: Undergraduate Course Assistant        
-#     OHs: 
-#     #   OH1:
-#     #     time-start: "16:00"
-#     #     time-end: "17:00"
-#     #     day: Friday
-#     #     location: ECEB 2036  
+rubin:
+    display_name: "Rubin Zou"
+    netid: jiaruz2
+    webpage: "https://www.linkedin.com/in/jiaru-zou-67434a21a/"
+    github: MP-killer
+    role: ugrad-alum
+    image: /img/people/rubin.jpg
+    bio: Undergraduate Course Assistant        
+    OHs: 
+    #   OH1:
+    #     time-start: "16:00"
+    #     time-end: "17:00"
+    #     day: Friday
+    #     location: ECEB 2036  
 
 # gautham:
 #     display_name: "Gautham Varma"
