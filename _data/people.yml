@@ -149,7 +149,7 @@ sumedh:
     netid: sumedh2-alum
     webpage: "https://www.linkedin.com/in/sumedh-vemu/"
     github: sumedh2
-    role: grad-alum
+    role: grad
     image: /img/people/sumedh.jpeg
     bio: Graduate Teaching Assistant
     # OHs: 
@@ -224,7 +224,7 @@ hongbo:
     webpage: "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
     netid: hongboz2
     github: 
-    role: grad-alum
+    role: grad
     image: /img/people/hongbo.jpeg
     bio: Graduate Teaching Assistant
 
@@ -234,8 +234,8 @@ yingbing:
     webpage: 
     netid: yh21
     github: 
-    role: grad-alum
-    image: /img/people/anon-female.jpeg
+    role: grad
+    image: /img/people/anon-female.jpg
     bio: Graduate Teaching Assistant
 
 
@@ -409,7 +409,7 @@ siddhant:
     netid: ssn5
     webpage: http://www.linkedin.com/in/siddhant-nanavati
     github: ssn5
-    role: ugrad-alum
+    role: ugrad
     image: /img/people/siddhant.jpg
     bio: Undergraduate Course Assistant
     # OHs: 
@@ -533,7 +533,7 @@ rubin:
     netid: jiaruz2
     webpage: "https://www.linkedin.com/in/jiaru-zou-67434a21a/"
     github: MP-killer
-    role: ugrad-alum
+    role: ugrad
     image: /img/people/rubin.jpg
     bio: Undergraduate Course Assistant        
     OHs: 
