@@ -12,6 +12,7 @@ deliverydate:
 link-slides: 
 link-scribbles: 
 link-recording: 
+pre-recording: 
 ---
 
 Nothing so far.....

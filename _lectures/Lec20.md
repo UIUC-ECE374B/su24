@@ -9,10 +9,11 @@ people:
   - nicholas
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 
-link-slides: 
-link-scribbles: 
-link-recording: 
+deliverydate: 2024-07-26
+link-slides: /materials/lecture_slides/lec21.pdf
+link-scribbles: /materials/lecture_slides/lec21_scribbles_sp23.pdf
+link-recording: https://mediaspace.illinois.edu/media/t/1_1bnz6ltr
+pre-recording: 
 ---
 
 ### SAT

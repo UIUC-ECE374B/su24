@@ -9,10 +9,11 @@ people:
   - kani
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate:  #last updated date
+deliverydate:
 link-slides: 
 link-scribbles: 
 link-recording: 
+pre-recording: 
 ---
 
 Course policies can be found on the website [ecealgo.com](https://ecealgo.com).
