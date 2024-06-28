@@ -13,6 +13,7 @@ deliverydate:
 link-slides: 
 link-scribbles: 
 link-recording: 
+pre-recording: 
 ---
 
 <h4>Non-Regular Language</h4>
