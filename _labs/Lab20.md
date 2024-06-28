@@ -8,7 +8,7 @@ description: We explore a few simple reductions to prove that a problem is NP-ha
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 
+deliverydate: 2024-07-26
 link-questions: 
 link-solutions: 
 ---

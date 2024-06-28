@@ -8,7 +8,7 @@ description: Now that we've formulated our solutions as recurrences, let's turn 
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 
+deliverydate: 2024-07-12
 link-questions: 
 link-solutions: 
 ---

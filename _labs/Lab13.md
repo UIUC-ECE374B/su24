@@ -8,7 +8,7 @@ description: Second dynamic programming lab. We take classic DP problems and exp
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 
+deliverydate: 2024-07-13
 link-questions: 
 link-solutions: 
 ---

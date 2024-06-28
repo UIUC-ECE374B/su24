@@ -8,7 +8,7 @@ description: "We'll start our investigation of recursion through binary search a
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 
+deliverydate: 2024-07-09
 link-questions: 
 link-solutions: 
 ---

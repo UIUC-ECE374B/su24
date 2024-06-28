@@ -8,7 +8,7 @@ description: The OG graphing problem, we'll take a moment to discuss minimum spa
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 
+deliverydate: 2024-07-20
 link-questions: 
 link-solutions: 
 ---
