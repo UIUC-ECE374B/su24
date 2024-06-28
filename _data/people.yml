@@ -53,20 +53,20 @@ kani:
 #     bio:  Professor 
 
 
-abhishek:
-    display_name: "Abhishek Kumar Umrawal"
-    netid: aumrawal
-    webpage: "https://www.linkedin.com/in/abhishekumrawal/"
-    github: 
-    role: faculty
-    image: /img/people/abhishek.png
-    bio: Teaching Assistant Professor 
-    # OHs: 
-    #   OH1:
-    #     time-start: "15:00"
-    #     time-end: "16:00"
-    #     day: Thursday
-    #     location: 4036 ECEB
+# abhishek:
+#     display_name: "Abhishek Kumar Umrawal"
+#     netid: aumrawal
+#     webpage: "https://www.linkedin.com/in/abhishekumrawal/"
+#     github: 
+#     role: faculty
+#     image: /img/people/abhishek.png
+#     bio: Teaching Assistant Professor 
+#     # OHs: 
+#     #   OH1:
+#     #     time-start: "15:00"
+#     #     time-end: "16:00"
+#     #     day: Thursday
+#     #     location: 4036 ECEB
 
 
 # # scott:
@@ -229,14 +229,14 @@ hongbo:
     bio: Graduate Teaching Assistant
 
 
-yingbing:
-    display_name: "Yingbing Huang"
-    webpage: 
-    netid: yh21
-    github: 
-    role: grad
-    image: /img/people/anon-female.jpg
-    bio: Graduate Teaching Assistant
+# yingbing:
+#     display_name: "Yingbing Huang"
+#     webpage: 
+#     netid: yh21
+#     github: 
+#     role: grad
+#     image: /img/people/anon-female.jpg
+#     bio: Graduate Teaching Assistant
 
 
 # ### Undergraduate TAs
