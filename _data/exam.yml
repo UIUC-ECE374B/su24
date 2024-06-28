@@ -1,7 +1,7 @@
 MT1: 
   num: 1
   topic: Algorithms 
-  date: 2024-07-24
+  date: 2024-07-23
   samp_exam1: 
   samp_exam2: 
   samp_exam1_sol: 
@@ -14,7 +14,7 @@ MT1:
 MT2: 
   num: 2
   topic: NP-completeness and decidability 
-  date: 2024-07-31
+  date: 2024-07-30
   samp_exam1: 
   samp_exam2: 
   samp_exam1_sol: 

@@ -2,7 +2,7 @@ hw1:
   num: 1
   topic: Recursion and Dynamic Programming
   num-problems: 5
-  assigned-date: 2024-07-09
+  assigned-date: 2024-07-08
   due-date: 2024-07-17
   questions-link: 
   solutions-link: 
@@ -11,7 +11,7 @@ hw2:
   num: 2
   topic: Graphs and Shortest Paths	
   num-problems: 5
-  assigned-date: 2024-07-16
+  assigned-date: 2024-07-15
   due-date: 2024-07-24
   questions-link: 
   solutions-link: 
@@ -20,7 +20,7 @@ hw3:
   num: 3
   topic: Reductions and NP-Completeness	
   num-problems: 3
-  assigned-date: 2024-07-25
+  assigned-date: 2024-07-24
   due-date: 2024-07-31
   questions-link: 
   solutions-link: 
