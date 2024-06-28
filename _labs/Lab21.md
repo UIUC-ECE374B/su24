@@ -8,7 +8,7 @@ description: The second lab on using reductions to show NP-hardness. Emphasis wi
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-07-27
+deliverydate: 2024-07-26
 link-questions: 
 link-solutions: 
 link-recording:

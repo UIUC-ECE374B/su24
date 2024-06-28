@@ -8,7 +8,7 @@ description: "We'll discuss one of the OG divide and conquer algorithms: Kartsub
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-07-10
+deliverydate: 2024-07-09
 link-questions: 
 link-solutions: 
 ink-recording:
