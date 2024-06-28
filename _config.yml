@@ -38,7 +38,7 @@ roles:
 front_page_news: 4
 
 # Base pathname for links.
-base: '/su24.github.io'
+base: '/su24'
 
 # make pages for the colections
 collections:
