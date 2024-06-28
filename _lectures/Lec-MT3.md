@@ -1,6 +1,6 @@
 ---
 title: No Lecture
-subtitle: (Midterm 3) 
+subtitle: (Final) 
 placeholder: true
 card-link: LecLinkMT3
 back-color: ffeeff
@@ -10,7 +10,7 @@ people:
   - kani
 layout: lecture
 no-link: true  # stops link to page 
-deliverydate:  #last updated date
+deliverydate: 2024-08-02 #last updated date
 # link-slides: /lecture_slides/lec1.pdf
 # link-scribbles: /lecture_slides/Lec1-fa21.pdf
 # link-recording: https://www.youtube.com

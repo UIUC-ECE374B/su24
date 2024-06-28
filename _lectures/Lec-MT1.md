@@ -10,7 +10,7 @@ people:
   - kani
 layout: lecture
 no-link: true  # stops link to page 
-deliverydate:  #last updated date
+deliverydate:  2024-07-24 #last updated date
 # link-slides: /lecture_slides/lec1.pdf
 # link-scribbles: /lecture_slides/Lec1-fa21.pdf
 # link-recording: https://www.youtube.com
