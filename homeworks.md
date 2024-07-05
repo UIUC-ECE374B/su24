@@ -54,11 +54,10 @@ title: Homeworks
 
 Couple things to note about homeworks:
 - Homeworks are to be completed **individually**. Yes, this is a change from previous semesters but we have [good reason](/resources/No-group-assignments.html) to believe that the group homeworks hamper learning instead of facilitate it. 
-- Each homework is assigned when you have all (or at least most) of the required knowledge to complete it. In two cases, because of scheduling constraints, one or two problems may require knowledge from the lecture/discussion right after assignment. Either way you'll have the knowledge for those problems by Wednesday. This is a long-winded way of saying: **There is zero reason not to start the homework early**
+- Because this is a summer course, homeworks will be due the Tuesday the week after the material is covered. I usually like to give more lead time but the summer session is short and intense. Regardless, you have lecture recordings, so you can start homewokrs if you anticipate a scheduling issue. Each HW assignment corresponds to a particular lecture. I recommend doing each problem the evening after the corresponding lecture to ensure that the material is fresh and you can complete the problem quickly.  
 - It's a bad idea to skip homeworks. Homeworks and labs are where we get inspiration for exam problems. 
 - You can find a sample HW LaTeX template [here](/materials/homeworks/hwt_B.tex).
-- Each section of the course will allow XX homework drops. 
-- Each half of the course will have its own homework grade. 
+- This half of the course will allow 2 homework problems to be dropped. 
 
 ### Homework Logistics: How to submit
 

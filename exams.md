@@ -118,8 +118,9 @@ title: Exams
 &nbsp;
 
 Couple things to note about exams:
-- All the midterms will be administered during lecture time in the usual lecture room. 
-- The final will be conducted according to the registrar's schedule. 
+- All the exams will be administered synchronously via Zoom. Prior to the exam time, we will email everyone and make sure the scheduled time is ok. I know some people are overseas so a few of you in the online section will need to take the exam at less than ideal times but we will try our best to make the timing work for everyone.
+- There is one exam drop. This replaces conflict exams. If there is an issue that would cause you to miss two or more exams, please let me know. 
+- The final will be conducted the same as the other two midterms.  
 
 ### Exam Policies
 
