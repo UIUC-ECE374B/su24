@@ -9,7 +9,7 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-07-11
-link-questions: 
+link-questions: /materials/labs/lab12.pdf
 link-solutions: 
 link-recording:
 ---

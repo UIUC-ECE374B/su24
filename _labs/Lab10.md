@@ -9,7 +9,7 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-07-09
-link-questions: 
+link-questions: /materials/labs/lab10-divnconq.pdf
 link-solutions: 
 ink-recording:
 ---
