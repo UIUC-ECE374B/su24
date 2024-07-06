@@ -10,14 +10,9 @@ kani:
       OH1:
         time-start: "16:00"
         time-end: "17:00"
-        day: Monday
-        location: 265 CSL and Zoom
-      OH2:
-        time-start: "16:00"
-        time-end: "17:00"
         day: Wednesday
         location: 265 CSL and Zoom
-      OH3:
+      OH2:
         time-start: "16:00"
         time-end: "17:00"
         day: Friday
@@ -158,11 +153,11 @@ sumedh:
     image: /img/people/sumedh.jpeg
     bio: Graduate Teaching Assistant
     OHs: 
-    #   OH1:
-    #     time-start: "17:00"
-    #     time-end: "18:00"
-    #     day: Tuesday
-    #     location: Zoom
+      OH1:
+        time-start: "17:00"
+        time-end: "18:00"
+        day: Monday
+        location: Zoom
       OH2:
         time-start: "17:00"
         time-end: "18:00"
