@@ -100,7 +100,7 @@ Because we have a mix of online and in-person students, most OHs will be held on
   </tr>
   <tr>
     <td> Rubin </td>
-    <td> <a href=""> Zoom Room (TBD) </a> </td>
+    <td> <a href="https://illinois.zoom.us/j/6820293785?pwd=SGFzSW1KbXI3ZkVXVU5vUzY1eGtIQT09"> Zoom Room </a> </td>
   </tr>
 </table>
 
