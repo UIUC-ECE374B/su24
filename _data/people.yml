@@ -6,17 +6,22 @@ kani:
     role: faculty
     image: /img/people/Kani.png
     bio: Teaching Assistant Professor 
-    # OHs: 
-    #   OH1:
-    #     time-start: "15:00"
-    #     time-end: "16:00"
-    #     day: Tuesday
-    #     location: 1039 CSL
-    #   OH2:
-    #     time-start: "15:00"
-    #     time-end: "16:00"
-    #     day: Thursday
-    #     location: 1039 CSL
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Monday
+        location: 265 CSL and Zoom
+      OH2:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Wednesday
+        location: 265 CSL and Zoom
+      OH3:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Friday
+        location: 265 CSL and Zoom  
 
 # sariel:     
 #     display_name: "Sariel Har-Peled"
@@ -152,6 +157,18 @@ sumedh:
     role: grad
     image: /img/people/sumedh.jpeg
     bio: Graduate Teaching Assistant
+    OHs: 
+    #   OH1:
+    #     time-start: "17:00"
+    #     time-end: "18:00"
+    #     day: Tuesday
+    #     location: Zoom
+      OH2:
+        time-start: "17:00"
+        time-end: "18:00"
+        day: Thursday
+        location: Zoom
+    
     # OHs: 
     #   OH1:
     #     time-start: "16:00"
@@ -339,6 +356,17 @@ vishesh:
     role: ugrad
     image: /img/people/visheh.png
     bio: Undergraduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "16:30"
+        time-end: "18:30"
+        day: Tuesday
+        location: 3034 ECEB and Zoom
+      OH2:
+        time-start: "08:00"
+        time-end: "10:00"
+        day: Thursdays
+        location: 3034 ECEB and Zoom
 
 # owen:
 #     display_name: "Owen Xu"
@@ -412,12 +440,27 @@ siddhant:
     role: ugrad
     image: /img/people/siddhant.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "17:00"
-    #     time-end: "18:00"
-    #     day: Tuesday
-    #     location: 4036 ECEB
+    OHs: 
+      OH1:
+        time-start: "08:00"
+        time-end: "09:00"
+        day: Wednesday
+        location: Zoom
+      OH2:
+        time-start: "08:00"
+        time-end: "09:00"
+        day: Friday
+        location: Zoom
+      OH3:
+        time-start: "19:00"
+        time-end: "21:00"
+        day: Wednesday
+        location: Zoom
+      OH4:
+        time-start: "19:00"
+        time-end: "21:00"
+        day: Friday
+        location: Zoom
 
 # chris:
 #     display_name: "Chris Deng"

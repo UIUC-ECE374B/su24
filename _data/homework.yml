@@ -4,7 +4,7 @@ hw1:
   num-problems: 5
   assigned-date: 2024-07-08
   due-date: 2024-07-17
-  questions-link: 
+  questions-link: /materials/homeworks/hw1.pdf
   solutions-link: 
 
 hw2: 
@@ -13,7 +13,7 @@ hw2:
   num-problems: 5
   assigned-date: 2024-07-15
   due-date: 2024-07-24
-  questions-link: 
+  questions-link: /materials/homeworks/hw2.pdf
   solutions-link: 
 
 hw3: 
@@ -22,5 +22,5 @@ hw3:
   num-problems: 3
   assigned-date: 2024-07-24
   due-date: 2024-07-31
-  questions-link: 
+  questions-link: /materials/homeworks/hw3.pdf
   solutions-link: 
