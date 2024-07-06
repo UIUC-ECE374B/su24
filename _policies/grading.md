@@ -7,20 +7,20 @@ description: How your final grade is calculated.
 
 There are two components to your raw total: 
 
-- [Homeworks](/homeworks.html): 25%
+- [Homeworks](/homeworks.html): 34%
     - Remember we have a drop policy so if you miss a homework due to illness or did not perform as well as you'd hoped, you have an opportunity to bounce back. 
-    - Specifically, we will include only the top 27 homework problems (including the lab problems) scores in computing your final grade. We expect to grade 9 homeworks, each with 4 problems. Should for some reason we would grade less homework problems, we will still use the top 27 homework problems.
-    - If you submit everything, this policy is equivalent to dropping 9 homework problems.
-    - **If you submit less than 20 homework problems** you are likely to fail unless there is an overriding excuse.
-- [Exams](/exams.html): 75%
-    - There will be three midterm exams, and a cumulative final exam. 
-    - **We will drop the lowest exam grade (including the final).** Hence, each exam is worth 25% but if you screw one up, never fear, one exam will get dropped. Alternatively, if you do well on the midterms and want to skip the final, go for it! We will try our best to give students a projected final grade after the third midterm.
-    - Keep in mind that regardless of the exam you drop, you will still be tested on the entire course content since the final is cumulative. 
-    - I will use a flat curve to make all the exam averages to be **approximately** 70 points. Thus it should be beneficial to drop one exam over another.
-    - There will be no conflicts. The drop policy is specifically for individuals that need a bit of a break for whatever reason (illness, duty, etc.). 
+    - Specifically, we will include only the top 11 homework problem scores in computing your final grade. We expect to grade 13 homework problems. Should for some reason we would grade less homework problems, we will still use the top 9 homework problems.
+    - **If you submit less than 6 homework problems** you are likely to fail unless there is an overriding excuse.
+- [Exams](/exams.html): 66%
+    - There will be three exams (two midterms and a final).
+    - The final will cover everything *in the second half* of the course.  
+    - **We will drop the lowest exam grade (including the final).** Hence, each exam is worth 33% but if you screw one up, never fear, one exam will get dropped. Alternatively, if you do well on the midterms and want to skip the final, go for it! We will try our best to give students a projected final grade after the third midterm.
+    - Keep in mind that regardless of the exam you drop, you will still be tested on the entire course content since the final is cumulative (covering everything in this part of the course). 
+    - I will use a flat curve to make all the exam averages to be **approximately** 70 points. Thus, it should not be beneficial to drop one exam over another.
+    - I am trying to avoid creating conflict exams. Trust me you do not want to take a conflict. No matter how good an instructor is, exam averages vary and conflicts are taken by only a few people meaning that there is not enough data to appropriately adjust a conflict even if is actually more difficult than the main exam. However, I recognize that the combination of in-person and online students spread around the world might make this difficult so I will talk to you guys about scheduling as we get closer to the exam. 
     - I don't want to be the arbiter of what is and isn't a valid reason to miss your work (and neither should students have to plead and hope for mercy from professors). That is why I constructed this policy that is merciful but will apply it strictly. If you have a serious issue that cause you to miss two or more midterms, you need to contact your department's advising office and/or the [emergency dean](/policies/stressed).
     - I firmly believe that an exam grade distribution with a mean of 50 is best because it allows me to maximize the standard deviation on both ends. This is important to me since tests with a large uniform distribution allow test takers to make a few mistakes without it altering their final grade too much. 
-    - The above being said, I have made an effort to increase the average of my exams to ~70 to be more in-line with typical American standards. I'm doing this simply because there is a minority of students that vehemently believe all tests should have an average of at least 70 and don't even pay attention to standard deviation. They are wrong, and in the past two semesters where the exam averages were higher, final grade cutoffs were significantly smaller which meant a lot of people missed a letter grade because of a missed exam problem. That sucks. But this minority of students that committed to this idea of high averages is aggressively vocal (especially online) and those that understand the policy and its benefits don't speak up. I'm not here to be a martyr so if you do agree with me about the larger distribution, please speak up. Email the department admins, contact your student organizations, etc. But I have fought long and hard to change this course for (in my opinion) the better and have been thoroughly shut down. I can't do it anymore.   
+    - The above being said, I have made an effort to increase the average of my exams to ~70 to be more in-line with typical American standards. I'm doing this simply because there is a minority of students that vehemently believe all tests should have an average of at least 70 and don't even pay attention to standard deviation. They are wrong, and in the past few semesters where the exam averages were higher, final grade cutoffs were significantly smaller which meant a lot of people missed a letter grade because of a single missed exam problem. That sucks. But this minority of students that committed to this idea of high averages is aggressively vocal (especially online) and those that understand the policy and its benefits don't speak up. I'm not here to be a martyr so if you do agree with me about the larger distribution, please speak up. Email the department admins, contact your student organizations, etc. But I have fought long and hard to change this course for (in my opinion) the better and have been thoroughly shut down. I can't do it anymore.   
 
 
 #### Final grade calculation 
@@ -84,7 +84,7 @@ This typically puts the average GPA of my course right around ~3.2 ish which is 
 Important notes: 
 
 - Grade cutoffs change for every semester simply because the exam/homework garde distributions change every semester. 
-- Cutoffs (even for the relative scheme) are finalized after the third midterm so students can figure out if they want to take the final or not. 
+- Cutoffs (even for the relative scheme) are finalized after the last midterm so students can figure out if they want to take the final or not. 
  
 
 
