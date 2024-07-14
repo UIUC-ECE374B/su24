@@ -11,7 +11,7 @@ no-link: true  # stops link to page
 deliverydate: 2024-07-08
 link-questions: /materials/labs/lab9-bin-search.pdf
 link-solutions: /materials/labs/lab9-bin-search-sol.pdf
-link-recording: https://mediaspace.illinois.edu/media/t/1_1fwduk7u/345682322
+link-recording: https://mediaspace.illinois.edu/media/t/1_1fwduk7u/347892222
 ---
 
 
