@@ -10,8 +10,8 @@ layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-07-15
 link-questions: /materials/labs/lab14.pdf
-link-solutions: 
-link-recording:
+link-solutions: /materials/labs/lab14-sol.pdf
+link-recording: https://mediaspace.illinois.edu/edit/1_mxm298ez
 ---
 
 
