@@ -352,16 +352,16 @@ vishesh:
     image: /img/people/visheh.png
     bio: Undergraduate Course Assistant
     OHs: 
-      OH1:
-        time-start: "16:30"
-        time-end: "18:30"
-        day: Tuesday
-        location: 3034 ECEB and Zoom
-      OH2:
-        time-start: "08:00"
-        time-end: "10:00"
-        day: Thursday
-        location: 3034 ECEB and Zoom
+#      OH1:
+#        time-start: "16:30"
+#        time-end: "18:30"
+#        day: Tuesday
+#        location: 3034 ECEB and Zoom
+#      OH2:
+#        time-start: "08:00"
+#        time-end: "10:00"
+#        day: Thursday
+#        location: 3034 ECEB and Zoom
 
 # owen:
 #     display_name: "Owen Xu"
