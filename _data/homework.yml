@@ -14,8 +14,8 @@ hw2:
   assigned-date: 2024-07-15
   due-date: 2024-07-24
   questions-link: /materials/homeworks/hw2.pdf
-  solutions-link: 
-
+  solutions-link: /materials/homeworks/hw2-sol.pdf
+  
 hw3: 
   num: 3
   topic: Reductions and NP-Completeness	
