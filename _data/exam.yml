@@ -9,7 +9,7 @@ MT1:
   skillset: /materials/exams/mt_2_skillset.pdf
   cheat_sheet: /materials/exams/main_MT2.pdf
   exam_questions: /materials/exams/midterm2-vf-su24.pdf
-  exam_solutions: 
+  exam_solutions: /materials/exams/midterm2-vf-su24-sol.pdf
 
 MT2: 
   num: 2
@@ -22,7 +22,7 @@ MT2:
   skillset: /materials/exams/mt_3_skillset.pdf
   cheat_sheet: /materials/exams/main_MT3.pdf
   exam_questions: /materials/exams/midterm3-vf-su24.pdf
-  exam_solutions: 
+  exam_solutions: /materials/exams/midterm3-vf-su24-sol.pdf
 
 MT3: 
   num: 3
